@@ -1,0 +1,3 @@
+%% encoding: UTF-8
+{application,token_bucket}.
+{modules,[token_bucket,token_bucket_app,token_bucket_sup,token_depot]}.
